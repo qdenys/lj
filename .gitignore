@@ -13,3 +13,7 @@ node_modules
 
 # Вспомогательные файлы редактора phpShtorm
 *.idea
+
+# Файлы JavaScript ES5
+dist
+public/dist
